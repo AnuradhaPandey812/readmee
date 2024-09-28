@@ -1,5 +1,6 @@
 Nepexpress
-<img src='https://github.com/im-bipo/nep-express/blob/main/public/nepexpress-01.png?raw=true'/>
+<img src='https://github.com/im-bipo/nep-express/blob/main/public/nepexpress-01.png?raw=true' style="width: 10rem;" />
+
 
 Nepexpress is an all-in-one tourism platform designed to assist both local and international tourists in planning their trips to Nepal. The platform showcases hidden gems and connects users with indigenous guides for a more educational travel experience. Additionally, Nepexpress features a marketplace offering authentic Nepali products, promoting small-scale businesses.
 
