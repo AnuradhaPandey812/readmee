@@ -4,9 +4,9 @@
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto;">
     <p style="font-size: 1.2rem;">
+        <h2 style="font-size: 1.5rem; margin-top: 2rem;">📌 Project Overview</h2>
         <strong>Nepexpress</strong> is an all-in-one tourism platform designed to assist both local and international tourists in planning their trips to Nepal. The platform showcases hidden gems and connects users with indigenous guides for a more educational travel experience. Additionally, Nepexpress features a marketplace offering authentic Nepali products, promoting small-scale businesses.
     </p>
-    <h2 style="font-size: 1.5rem; margin-top: 2rem;">📌 Project Overview</h2>
     <h3 style="font-size: 1.25rem;">🏷️ Title</h3>
     <p><strong>Nepexpress</strong></p>
     <h3 style="font-size: 1.25rem;">✨ Description</h3>
