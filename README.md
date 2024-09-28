@@ -1,5 +1,5 @@
 Nepexpress
-<div style="display: flex; justify-content: center; align-items: center; height: auto;">
+<div style="display: flex; justify-content: center; width:100%; align-items: center; height: auto;">
     <img src='https://github.com/im-bipo/nep-express/blob/main/public/nepexpress-01.png?raw=true' style="width: 10rem;" />
 </div>
 
